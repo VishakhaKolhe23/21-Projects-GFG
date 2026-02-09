@@ -1,4 +1,4 @@
-# Day 9 – Advanced Vision
+# – Advanced Vision
 
 ## Project Title
 Advanced Computer Vision Techniques using Deep Learning
