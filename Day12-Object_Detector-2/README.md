@@ -1,4 +1,4 @@
-# Day 12 – Object Detector
+#  – Object Detector
 
 This project implements a real-world object detection system using pre-trained YOLO models (YOLOv8 and YOLO26 variants) in Google Colab.  
 The system performs object detection on video data and visualizes detected objects using bounding boxes and confidence scores.
