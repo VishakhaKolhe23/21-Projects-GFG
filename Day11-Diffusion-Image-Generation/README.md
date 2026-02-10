@@ -30,3 +30,6 @@ The model generates high-quality images based on textual descriptions.
 - Understanding diffusion-based generative models
 - Using Hugging Face pipelines for image generation
 - Handling model authentication and inference
+
+⚠️ Note: If GitHub preview fails, download the notebook and open in Google Colab or Jupyter.
+
