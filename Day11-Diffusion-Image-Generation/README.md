@@ -1,4 +1,4 @@
-# Day 11 – Image Generation using Diffusion Models
+#  Image Generation using Diffusion Models
 
 ## Project Description
 This project demonstrates image generation using state-of-the-art diffusion models from Hugging Face.
