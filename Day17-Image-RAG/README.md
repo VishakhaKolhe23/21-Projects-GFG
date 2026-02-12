@@ -31,3 +31,4 @@ for semantic image search using a personal dataset.
 - "personal workspace"
 
 This demonstrates Multimodal RAG applied to intelligent visual search.
+# To view result: Download the notebook and open it in googlw colab or jupyter Notebook.
