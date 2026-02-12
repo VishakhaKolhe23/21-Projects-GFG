@@ -11,3 +11,4 @@ Build a Smart OCR Bot to extract text from documents/images and automate informa
 
 ## 📊 Outcome
 Successfully extracted and processed text from documents to enable intelligent document automation workflows.
+
