@@ -1,4 +1,4 @@
-# Day 17 – Intelligent Document Automation (OCR Bot)
+#  – Intelligent Document Automation (OCR Bot)
 
 ## 📌 Objective
 Build a Smart OCR Bot to extract text from documents/images and automate information processing.
