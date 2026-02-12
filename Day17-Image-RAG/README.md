@@ -1,4 +1,4 @@
-# Day17 – Intelligent Image Search using RAG
+#  Intelligent Image Search using RAG
 
 This project implements a Retrieval-Augmented Generation (RAG) system
 for semantic image search using a personal dataset.
