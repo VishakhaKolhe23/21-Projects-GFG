@@ -1,4 +1,4 @@
-# Day19 – AI Agents
+# AI Agents
 
 This project demonstrates the implementation of AI Agents that can
 reason, plan, and take actions to complete tasks autonomously.
